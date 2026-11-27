@@ -89,7 +89,7 @@ occupancy-detection-ml/
    pip install -r requirements.txt
    ```
 
-4. Abra o notebook `occupancy_detection.ipynb` no VS Code (com a extensão Jupyter) ou no Jupyter Notebook e execute todas as células em ordem (Run All).
+4. Abra o notebook `occupancy_detection.ipynb` no VS Code (com a extensão Jupyter) e execute todas as células em ordem (Run All).
 
 A base de dados já está na pasta `data/` e é lida por caminho relativo, então não é preciso alterar nenhum caminho no código.
 
